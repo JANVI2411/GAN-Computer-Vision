@@ -7,7 +7,7 @@
   <br><br>
   <li>I've built and trained the pix2pix model from scratch using Tensorflow. It converts google map photo to google earth photo.</li>
   <br>
-  <img src='map_gan.png'>
+  <img src='Tensorflow/map_gan.png'>
 <br>
 <br>
 2) DCGAN model :
